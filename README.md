@@ -14,4 +14,3 @@ Your goal: Help the turtle cross the busy road while avoiding speeding cars! ğŸš
 
 ---
 
-## ğŸ“‚ Project Structure
