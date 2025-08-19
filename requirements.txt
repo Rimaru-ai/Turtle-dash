@@ -1,0 +1,3 @@
+# Turtle is included in the Python Standard Library (no extra install needed)
+
+python>=3.8
