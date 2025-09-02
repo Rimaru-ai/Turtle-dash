@@ -38,6 +38,7 @@ Inspired by 1990’s arcade classics but written in pure Python 🐍.
 ## 🛠 Install dependencies:
 pip install -r requirements.txt
 
+
 ---
 ## 🛠 Run the game:
 python main.py
