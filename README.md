@@ -47,10 +47,10 @@ python main.py
 ## Project Structure
 
 turtle-dash/
-│── main.py          # Game loop
-│── player.py        # Player (turtle) logic
-│── car_manager.py   # Car spawning & movement
-│── obstacle_manager.py # Stationary obstacles
-│── scoreboard.py    # Score + lives display
-│── requirements.txt # Dependencies
-│── README.md        # Documentation
+│── main.py              # Game loop
+│── player.py            # Player (turtle) logic
+│── car_manager.py       # Car spawning & movement
+│── obstacle_manager.py  # Stationary obstacles
+│── scoreboard.py        # Score + lives display
+│── requirements.txt     # Dependencies
+│── README.md            # Documentation
